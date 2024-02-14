@@ -1,10 +1,11 @@
 import React from "react";
 import food from "../assets/My Portfolio pics/food.png";
 import netflix from "../assets/My Portfolio pics/netflix.png";
-import navbar from "../assets/portfolio/navbar.jpg";
+import school from "../assets/My Portfolio pics/school.png";
 import youtube from "../assets/My Portfolio pics/youtube.png";
-import reactSmooth from "../assets/portfolio/reactSmooth.jpg";
-import reactWeather from "../assets/portfolio/reactWeather.jpg";
+import nike from "../assets/My Portfolio pics/nike.png";
+import clone from "../assets/My Portfolio pics/clone.png";
+
 
 const Portfolio = () => {
   const items = [
@@ -24,15 +25,15 @@ const Portfolio = () => {
     },
     {
       id: 4,
-      src: reactSmooth,
+      src: nike,
     },
     {
       id: 5,
-      src:navbar,
+      src:school,
     },
     {
       id: 6,
-      src: reactWeather,
+      src: clone,
     },
   ];
 
