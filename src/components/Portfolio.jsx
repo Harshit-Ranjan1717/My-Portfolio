@@ -31,6 +31,7 @@ const Portfolio = () => {
     {
       id: 5,
       src:school,
+      href:"https://harshit17landingpage.netlify.app/"
     },
     {
       id: 6,
