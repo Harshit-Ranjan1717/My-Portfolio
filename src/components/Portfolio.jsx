@@ -18,11 +18,12 @@ const Portfolio = () => {
     {
       id: 2,
       src:food,
+      href:"https://harshit17foodordering.netlify.app"
     },
     {
       id: 3,
       src: youtube,
-      href:"https://harshit1717youtube.netlify.app/"
+      href:"https://harshit17youtube.netlify.app/"
     },
     {
       id: 4,
